@@ -1,0 +1,4 @@
+1) If you're planning a 1-week long trip, which city should you visit to spend the least amount of money?
+2) How does the answer to the previous question chance if you change the duration of the trip to 4 days, 10 days or 2 weeks?
+3) If your total budget for the trip is $1000, wicth city should you visit to maximize the duratation of your trip? Which city should you visit if you want to minimize the duration?
+4) How does the answer to the previous question change if your budget is $600, $2000 or $1500
